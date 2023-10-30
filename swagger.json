@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/NickCopi/Swagger-UI-XSS/main/swagger.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/NickCopi/Swagger-UI-XSS/main/swagger.yaml",
+            "name": "XSS PoC In Swagger See https://github.com/advisories/GHSA-qrmm-w75w-3wpx"
+        }
+    ]
+}
